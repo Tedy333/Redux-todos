@@ -1,0 +1,17 @@
+.btn {
+  width: 4rem;
+  height: 1.7rem;
+  margin: 0 0.2rem;
+  background: #0a9c84;
+  border: none;
+  color: #fff;
+}
+
+.btnX {
+  width: 2rem;
+  height: 1.7rem;
+  margin: 0 0.2rem;
+  background: #e7072d;
+  border: none;
+  color: #fff;
+}
